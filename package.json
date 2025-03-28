@@ -1,0 +1,27 @@
+{
+  "name": "bankdetailsparser",
+  "version": "1.0.0",
+  "description": "parser for bank details",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parser",
+    "html",
+    "js",
+    "mongo",
+    "postgres",
+    "mongoose",
+    "sequilize"
+  ],
+  "author": "mitry nayezzhy",
+  "license": "ISC",
+  "dependencies": {
+    "beautiful-soup-js": "^0.0.2",
+    "iconv": "^3.0.1",
+    "mongodb": "^5.5.0",
+    "tabletojson": "^2.0.7"
+  }
+}
